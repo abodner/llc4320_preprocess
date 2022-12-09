@@ -2,7 +2,7 @@
 
 This repository includes functions to preprocess the llc4320 data.
 ## llc4320_data 
-This is a python code to save 3D variables on a local machine. 
+This is a python code to save 3D variables using the llcreader package on a local machine. 
 Each variable (Theta, SALT, U, V, W) is defined in the top 700m of a 15X15 degree box and down-sampled to once every 24 hours. 
 The example here is for the Califonia Current.
 
